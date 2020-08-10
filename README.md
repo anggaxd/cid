@@ -6,7 +6,7 @@
   Made with ❤️ by <a href="https://github.com/anggaxd">Angga Kurniawan</a>
 </p>
 <p align="center">
- <img src="https://raw.githubusercontent.com/anggaxd/bf/master/20200809_203008.png" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/anggaxd/cid/blob/master/20200810_142532.png" width="640" title="Menu" alt="Menu">
 </p>
 
 ## Install script on Termux
