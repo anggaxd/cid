@@ -1,0 +1,2 @@
+# cid
+Script Crack All
