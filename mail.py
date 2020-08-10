@@ -1,1 +1,3 @@
-print ("Hadeh Sabar Anjeng")
+print ("SABAR YA.....")
+time.sleep(0.30)
+menu()
