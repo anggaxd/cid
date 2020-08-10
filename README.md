@@ -13,6 +13,7 @@
 ```
 $ pkg update && pkg upgrade
 $ pkg install python2
+$ pkg install nodejs
 $ pip2 install requests
 $ pip2 install mechanize
 $ pkg install git
