@@ -92,8 +92,8 @@ logo = """
  \___\____/_| |_| |_|\__,_|_\_____/
                                    
                        """
-domain = "[\033[1;92m+\033[1;97m] Domain \033[1;91m: \033[1;97m@gmail.com @yahoo.com @hotmail.com"
-namet = "[\033[1;93m•\033[1;97m] Nama   \033[1;91m: \033[1;97mputri.ayu"
+domain = '[\033[1;92m+\033[1;97m] Domain \033[1;91m: \033[1;97m@gmail.com @yahoo.com @hotmail.com'
+namet = '[\033[1;93m•\033[1;97m] Nama   \033[1;91m: \033[1;97mputri.ayu'
 def tik():
     titik = ['.   ', '..  ', '... ']
     for o in titik:
@@ -129,12 +129,11 @@ def action():
         action()
     elif lovehackerx == '1':
         os.system('clear')
-        print logo
         print namet
         try:
-            k = raw_input('[\033[1;92m+\033[1;97m] Nama   \033[1;91m: \033[1;97m')
+            k = raw_input('\x1b[1;95m Type Any Name  : ')
             print domain
-            c = raw_input('[\033[1;93m?\033[1;97m] Domain \033[1;91m: \033[1;97m')
+            c = raw_input('\x1b[1;95m Type Any Domin : ')
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
                 id.append(line.strip())
