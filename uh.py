@@ -142,7 +142,7 @@ def menu():
 	action()
 
 def action():
-    peak = raw_input('\n\033[1;97mChoose an Option : \033[1;97m')
+    anggaxd = raw_input('\n\033[1;97mChoose an Option : \033[1;97m')
     if peak =='':
         print '[!] Pilih Yang Bener Sob'
         action()
