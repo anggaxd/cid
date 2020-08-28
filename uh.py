@@ -104,7 +104,7 @@ CorrectUsername = "anggaxd"
 CorrectPassword = "c-all"
 
 os.system("clear")
-print logo2
+print logo
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;97m➣ Username Tools : ")
